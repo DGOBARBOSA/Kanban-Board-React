@@ -1,6 +1,6 @@
 # Kanban-Board-React
 
-Projeto criado na Plataforma CodeSandbox, com o intuito de aprender os conceitos fundamentais do React. Funcionalidades de nossa aplicação:
+Projeto criado na Plataforma CodeSandbox, curso lecionado pelo [Bruno Paulino](https://github.com/brunojppb) na Plataforma [Udemy](https://www.udemy.com/course/react-para-iniciantes-free/)  com o intuito de aprender os conceitos fundamentais do React. Funcionalidades de nossa aplicação:
 - Adicionar tarefas na lista;
 - Atualizar tarefas já adicionadas;
 - Deletar tarefas indesejadas;
